@@ -1,0 +1,20 @@
+body{
+  font-family: "Glegoo";
+}
+.container{
+  width: 600px !important;
+  padding: 3%;
+  margin-top: 4%;
+  background-color: rgb(186, 204, 198);
+}
+#txtMessage{
+  padding: 15px;
+  height: 200px;
+  border: none;
+  outline: none;
+  resize:none  
+}
+#txtTrack{
+  background-color: rgb(7, 7, 59);
+  color: white;
+}
